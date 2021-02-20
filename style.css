@@ -1,0 +1,46 @@
+body{
+ font-family: CenturyGothic, helvetica, sans-serif, arial:
+ font-size: 12px;
+ color:Coral;
+ background: Linen;
+}
+p{
+ color: gray;
+ letter-spacing: 0.5em;
+ font-style:italic;
+ word-spacing: 0.8em;
+ line-height: 1.1;
+ text-align: left;
+}
+
+a{
+ color: DarkSlateGrey;
+ text-decoration: none;
+ font-style:italic;
+}
+
+h1{
+ color: DarkSeaGreen;
+ background-color: FloralWhite;
+ font-size: 1.8em;
+ font-style:italic;
+}
+
+h2{
+ font-size: 1.5em;
+ font-style:italic;
+}
+
+strong{
+ font-style:italic;
+ text-transform: uppercase; 
+}
+ 
+ul{
+ font-style:italic;
+ color: LightSlateGrey;
+}
+
+table{
+ background-color:MistyRose;
+}
